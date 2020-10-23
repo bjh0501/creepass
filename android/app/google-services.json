@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "631113536042",
+    "firebase_url": "https://creepass-eba56.firebaseio.com",
+    "project_id": "creepass-eba56",
+    "storage_bucket": "creepass-eba56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631113536042:android:ead29ff940531473616953",
+        "android_client_info": {
+          "package_name": "com.creeder.creepass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631113536042-omrk0v7jcj70596dln829pt1dsvupt2i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.creeder.creepass",
+            "certificate_hash": "375997c0782e0650552d5fd21aaefcefeca5a515"
+          }
+        },
+        {
+          "client_id": "631113536042-v6jqvp0g0g5ei8gg87vjk9k1qmp33ffk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp0M4PHRS04pVS2FsFYzs-2_eYOro4Btw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631113536042-v6jqvp0g0g5ei8gg87vjk9k1qmp33ffk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
